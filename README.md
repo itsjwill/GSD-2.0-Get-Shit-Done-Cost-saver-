@@ -33,25 +33,29 @@ npx get-shit-done-cc
 
 **Trusted by engineers at Amazon, Google, Shopify, and Webflow.**
 
-[Why I Built This](#why-i-built-this) · [How It Works](#how-it-works) · [Commands](#commands) · [Why It Works](#why-it-works)
+[About GSD](#about-gsd) · [What's New in 2.0](#whats-new-in-20) · [How It Works](#how-it-works) · [Commands](#commands)
 
 </div>
 
 ---
 
-## Why I Built This
+## About GSD
 
-I'm a solo developer. I don't write code — Claude Code does.
+> *This is a fork of the original [Get Shit Done](https://github.com/glittercowboy/get-shit-done) by TÂCHES ([@glittercowboy](https://github.com/glittercowboy)). GSD 2.0 adds multi-model intelligence, adaptive context loading, and rollback/recovery features while preserving the original philosophy.*
 
-Other spec-driven development tools exist; BMAD, Speckit... But they all seem to make things way more complicated than they need to be (sprint ceremonies, story points, stakeholder syncs, retrospectives, Jira workflows) or lack real big picture understanding of what you're building. I'm not a 50-person software company. I don't want to play enterprise theater. I'm just a creative person trying to build great things that work.
+### From the Original Creator
 
-So I built GSD. The complexity is in the system, not in your workflow. Behind the scenes: context engineering, XML prompt formatting, subagent orchestration, state management. What you see: a few commands that just work.
-
-The system gives Claude everything it needs to do the work *and* verify it. I trust the workflow. It just does a good job.
-
-That's what this is. No enterprise roleplay bullshit. Just an incredibly effective system for building cool stuff consistently using Claude Code.
-
-— **TÂCHES**
+> *"I'm a solo developer. I don't write code — Claude Code does.*
+>
+> *Other spec-driven development tools exist; BMAD, Speckit... But they all seem to make things way more complicated than they need to be (sprint ceremonies, story points, stakeholder syncs, retrospectives, Jira workflows) or lack real big picture understanding of what you're building. I'm not a 50-person software company. I don't want to play enterprise theater. I'm just a creative person trying to build great things that work.*
+>
+> *So I built GSD. The complexity is in the system, not in your workflow. Behind the scenes: context engineering, XML prompt formatting, subagent orchestration, state management. What you see: a few commands that just work.*
+>
+> *The system gives Claude everything it needs to do the work and verify it. I trust the workflow. It just does a good job.*
+>
+> *That's what this is. No enterprise roleplay bullshit. Just an incredibly effective system for building cool stuff consistently using Claude Code."*
+>
+> — **TÂCHES** ([@glittercowboy](https://github.com/glittercowboy))
 
 ---
 
